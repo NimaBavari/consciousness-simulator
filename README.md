@@ -12,10 +12,11 @@ Here, the universal consciousness is the server and brains are clients, and as m
 
 ## Usage
 
-Activate the virtualenv first by running:
+Activate the virtualenv, and install requirements, first by running:
 
 ```sh
 source simenv/bin/activate
+pip install -r requirements.txt
 ```
 
 Start the consciousness by running:
