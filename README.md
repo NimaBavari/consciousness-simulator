@@ -12,10 +12,16 @@ Here, the universal consciousness is the server and brains are clients, and as m
 
 ## Usage
 
-Activate the virtualenv, and install requirements, first by running:
+Create and activate the virtualenv first by running:
 
 ```sh
+python3 -m venv simenv
 source simenv/bin/activate
+```
+
+Then, install the requirements:
+
+```sh
 pip install -r requirements.txt
 ```
 
