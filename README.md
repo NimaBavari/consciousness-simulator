@@ -51,9 +51,3 @@ chmod +x ./lint.sh
 ```
 
 to lint enitre python source code in case you cause any change.
-
-## TODO
-
-* Add exception handling to the server module to handle scenarios such as:
-  * Server and clients are running, then server is manually closed. What happens to server?
-  * Server and clients are running, one of the clients is manually closed. What happens to server?
