@@ -6,9 +6,7 @@ A Distributed Universal Consciousness Simulator with Decaying Autostore-Autoload
 
 ## Idea
 
-Similar to [Brain Simulator](https://github.com/NimaBavari/brain-simulator) but better!
-
-Here, the universal consciousness is the server and brains are clients, and as many client brains can connect to the server as one wants. The universal consciousness -- the server --, along with serving, also plays the role of the permanent memory and uses a mechanism of key-value store but in a decaying fashion to simulate the decaying nature of the social and natural phenomena. Every connected client brain provides the server with a continuous stream of `dict`s of events and frequencies of its own and is simultaneously bombarded with a continuous stream of response `dict`s of events, timestamps and IPs of matching frequencies from the pool of everything in the permanent memory.
+The universal consciousness is the server and brains are clients, and as many client brains can connect to the server as one wants. The universal consciousness -- the server --, along with serving, also plays the role of the permanent memory and uses a mechanism of key-value store but in a decaying fashion to simulate the decaying nature of the social and natural phenomena. Every connected client brain provides the server with a continuous stream of `dict`s of events and frequencies of its own and is simultaneously bombarded with a continuous stream of response `dict`s of events, timestamps and IPs of matching frequencies from the pool of everything in the permanent memory.
 
 ## Usage
 
